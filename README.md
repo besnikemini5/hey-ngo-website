@@ -43,7 +43,6 @@ I designed and built the website on my own, hand-coded without frameworks or a w
 |--------|-------------------|
 | ![Impact](impact.png) | ![News](news.png) |
 
-<p align="center"><img src="mobile.png" alt="Mobile view" width="300"></p>
 
 ## Note
 
